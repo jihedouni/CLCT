@@ -18,7 +18,7 @@ We experiment with following models:
 ## mLED Creation 
 We create a multilingual Longformer Encoder Decoder (mLED) using the published script from the [Longformer repository](https://github.com/allenai/longformer) and the [mBART-50](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt) model. 
 
-The creation script can be found [here](https://github.com/jihedouni/CLCT/tree/master/models).
+The creation script can be found [here](https://github.com/jihedouni/CLCT/tree/main/Models/mLED).
 
 ## Model finetuning
 We follow different finetuning strategies: 

@@ -14,6 +14,7 @@ We experiment with following models:
 - mLED with a maximum length of 4,096
 - [BigBird](https://huggingface.co/pszemraj/bigbird-pegasus-large-K-booksum) with a maximum length of 4,096
 - [LongT5](https://huggingface.co/pszemraj/long-t5-tglobal-base-16384-book-summary) using the base version of TGlobal with a maximum length of 8,192 tokens
+- [MemSum](https://github.com/nianlonggu/MemSum)
 
 ## mLED Creation 
 We create a multilingual Longformer Encoder Decoder (mLED) using the published script from the [Longformer repository](https://github.com/allenai/longformer) and the [mBART-50](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt) model. 

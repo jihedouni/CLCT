@@ -6,7 +6,8 @@ This work investigate the use of Transformer-based models for cross-lingual cros
 ## Datasets 
 Two main cross-lingual cross-temporal datasets are created as part of this work: a German dataset consisting of historical fairy tales and associated modern English summaries, and an English dataset consisting of historical short stories, fairy tales, and plays, including their associated modern German summaries. In addition, we create additional datasets using the collected texts: two cross-temporal summarization datasets (German and English) and one historical translation dataset containing historical German and the corresponding historical English translation. Texts are mainly retrieved from online text collections and archives such as DTA (Deutsches Textarchiv) and Wikisource. The summaries are retrieved from Wikipedia.
 
-The datasets can ne found [here](https://drive.google.com/drive/folders/1MUaYjUfiThMX8H7HDJfpujikwmdku-7m?usp=sharing). 
+The datasets can be found [here](https://drive.google.com/drive/folders/1MUaYjUfiThMX8H7HDJfpujikwmdku-7m?usp=sharing). 
+The dataset codes can be found [here](https://github.com/jihedouni/CLCT_datasets).
 
 ## Models 
 We experiment with following models: 
